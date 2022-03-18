@@ -1,2 +1,5 @@
-# CS_Learning_Resources
-Collected my learning materials on CS
+<h1>CS_Learning_Resources</h1>
+<p>本人是同济大学21级信息类学生，为便于他人和自己更好的学习CS，特此建立此项目，存放一些学习资料。本人水平有限，如有<br/>
+  不足之处还请指出。联系方式：QQ 1596590665 邮箱 nyc15034663201@163.com</p>
+
+
